@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=UBtappd
+Exec=webapp-container --webappUrlPatterns=https?://www.untappd.com/* https://www.untappd.com
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

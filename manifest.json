@@ -1,0 +1,15 @@
+{
+    "name": "ubtappd.myxor",
+    "description": "Webapp for untappd.com",
+    "architecture": "@CLICK_ARCH@",
+    "title": "UBtappd",
+    "hooks": {
+        "ubtappd": {
+            "apparmor": "ubtappd.apparmor",
+            "desktop":  "ubtappd.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Marco Heiming <mail@marcoheiming.de>",
+    "framework" : "ubuntu-sdk-16.04"
+}
