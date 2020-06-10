@@ -1,14 +1,28 @@
 # UBtappd
 
-UBports webapp for untappd.com 
+UBports webapp for untappd.com
 
 
-## Install
+## Download
+
+You can download it from the OpenStore:
+
+https://open-store.io/app/ubtappd.myxor
+
+
+## Build
+
 Use clickable to build the app using
 `clickable build`.
 
-See http://clickable.bhdouglass.com/en/latest/ for details.
+See http://clickable.bhdouglass.com/en/latest/ for further details.
 
+
+## Logo
+
+The logo was taken form Wikimedia:
+
+https://commons.wikimedia.org/wiki/File:Untappd.svg
 
 ## License
 
