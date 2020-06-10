@@ -5,15 +5,15 @@ UBports webapp for untappd.com
 
 ## Download
 
-You can download it from the OpenStore:
+[![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/ubtappd.myxor)
 
-https://open-store.io/app/ubtappd.myxor
+Or build it yourself following instructions below.
 
 
 ## Build
 
-Use clickable to build the app using
-`clickable build`.
+* install clickable: http://clickable.bhdouglass.com
+* use clickable to build the app by running `clickable build`
 
 See http://clickable.bhdouglass.com/en/latest/ for further details.
 
