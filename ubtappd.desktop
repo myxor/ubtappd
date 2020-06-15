@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=UBtappd
-Exec=webapp-container --webappUrlPatterns=https?://www.untappd.com/* https://www.untappd.com
+Exec=webapp-container --webappUrlPatterns=https://www.untappd.com,https://untappd.akamaized.net https://www.untappd.com
 Icon=assets/logo.svg
 Terminal=false
 Type=Application

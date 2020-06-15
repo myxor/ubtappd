@@ -3,13 +3,13 @@
     "description": "Webapp for untappd.com",
     "architecture": "all",
     "title": "UBtappd",
+    "version": "0.0.3",
+    "maintainer": "Marco Heiming <mail@marcoheiming.de>",
+    "framework" : "ubuntu-sdk-16.04",
     "hooks": {
         "ubtappd": {
             "apparmor": "ubtappd.apparmor",
             "desktop":  "ubtappd.desktop"
         }
-    },
-    "version": "0.0.2",
-    "maintainer": "Marco Heiming <mail@marcoheiming.de>",
-    "framework" : "ubuntu-sdk-16.04"
+    }
 }
