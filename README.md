@@ -20,7 +20,7 @@ See http://clickable.bhdouglass.com/en/latest/ for further details.
 
 ## Logo
 
-The logo was taken form Wikimedia:
+The logo was taken from Wikimedia:
 
 https://commons.wikimedia.org/wiki/File:Untappd.svg
 
